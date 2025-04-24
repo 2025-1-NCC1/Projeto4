@@ -36,7 +36,7 @@ Fazer o download do Unity, no site https://unity.com/download, na versão 6000.0
 
 ## 💻 Configuração para Desenvolvimento
 
-Após finalizar a instalação do Unity, faça o download do arquivo do projeto que se encontra na pasta "Documentos" e importe para o aplicativo do Unity.
+Após finalizar a instalação do Unity, faça o download do arquivo do projeto que se encontra na pasta "src" e importe para o aplicativo do Unity.
 
 
 ## 📋 Licença/License
