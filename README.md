@@ -1,6 +1,7 @@
 Power Savers
 
 Integrantes: Arthur Lima, Breno Sales Colaneri e Stephanie Macedo
+
 Professor Orientador: Victor Rosetti
 
 Descrição
