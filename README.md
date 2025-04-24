@@ -8,7 +8,7 @@
 
 ## Integrantes: Arthur Lima, Breno Sales Colaneri e Stephanie Macedo
 
-## Professores Orientadores: Victor Rosetti
+## Professores Orientadores: Gilles Leite e Victor Rosetti
 
 ## Descrição
 
