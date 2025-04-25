@@ -27,11 +27,10 @@ Nosso projeto tem como objetivo principal conscientizar sobre a importância da 
   &emsp; &emsp;|-->Jogos Digitais e Sistemas Digitais Interativos<br>
   &emsp; &emsp;|-->Projeto Interdisciplinar - Jogos Digitais<br>
   &emsp;|-->Entrega 2<br>
-  &emsp; &emsp;
 |-->imagens<br>
 |-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
+  &emsp;|-->Entrega 1<br>
+  &emsp;|-->Entrega 2<br>
 |readme.md<br>
 
 ## 🛠 Instalação
@@ -56,3 +55,4 @@ Aqui estão as referências usadas no projeto.
 1. <https://github.com/fecaphub/Template_PI>
 2. <https://unity.com/pt/products>
 3. <https://unity.com/pt/download>
+4. <https://www.toptal.com/developers/gitignore>
