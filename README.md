@@ -20,8 +20,14 @@ Nosso projeto tem como objetivo principal conscientizar sobre a importância da 
 -Raiz<br>
 |<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
+  &emsp;|-->Entrega 1<br>
+  &emsp; &emsp;|-->Algoritmos e Lógica de Programação<br>
+  &emsp; &emsp;|-->Cálculo I<br>
+  &emsp; &emsp;|-->Ética e Pensamento Computacional<br>
+  &emsp; &emsp;|-->Jogos Digitais e Sistemas Digitais Interativos<br>
+  &emsp; &emsp;|-->Projeto Interdisciplinar - Jogos Digitais<br>
+  &emsp;|-->Entrega 2<br>
+  &emsp; &emsp;
 |-->imagens<br>
 |-->src<br>
   &emsp;|-->Backend<br>
