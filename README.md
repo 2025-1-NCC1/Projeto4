@@ -41,8 +41,13 @@ Fazer o download do Unity, no site https://unity.com/download, na versão 6000.0
 
 ## 💻 Configuração para Desenvolvimento
 
-Após finalizar a instalação do Unity, faça o download do arquivo do projeto que se encontra na pasta "src" e importe para o aplicativo do Unity.
-
+1-Baixe o arquivo do jogo;
+2-Abre a pasta onde está o arquivo do jogo;
+3-Clique no botão direito no arquivo do jogo e seleciona em "extrair arquivos";
+4-Clique em ok *vai aparecer em formato de pasta*;
+5-Abre o Unity;
+6-Clica em add e seleciona a pasta que foi extraido os arquivos duas vezes;
+7-E por ultimo clica ok e abra o jogo. (verifica se a versão está 6000.0.38f)
 
 ## 📋 Licença/License
 
