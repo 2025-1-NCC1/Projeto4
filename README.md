@@ -13,8 +13,10 @@
 ## Descrição
 
 Nosso projeto tem como objetivo principal conscientizar sobre a importância da economia de energia por meio da gamificação, transformando um problema sério e cotidiano em uma experiência interativa, educativa e envolvente. Ao utilizar mecânicas de jogos, criamos um ambiente onde o jogador é desafiado a tomar decisões estratégicas que impactam diretamente o consumo energético de uma residência ou comunidade virtual. Através dessas escolhas, o usuário aprende na prática os benefícios do uso consciente de energia, entendendo como pequenas atitudes podem gerar grandes mudanças. Além de entreter, o jogo promove o engajamento com causas sustentáveis, estimulando o pensamento crítico sobre hábitos de consumo e despertando o senso de responsabilidade ambiental. Com rankings, metas e recompensas, incentivamos a competição saudável e a repetição do aprendizado, tornando o tema mais acessível para diferentes faixas etárias. Dessa forma, unimos tecnologia, educação e diversão para contribuir com um futuro mais consciente e sustentável.
-<br><br>
-
+<br>
+![image](https://github.com/user-attachments/assets/3d5a0d48-cdbd-44cc-89e1-fad0f096b12e)
+<br>
+<br>
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
