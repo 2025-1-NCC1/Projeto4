@@ -43,19 +43,27 @@ Fazer o download do jogo Unity aqui
 
 ## 💻 Configuração para Desenvolvimento
 
-1-Baixe o arquivo do jogo;
+1- Acesse o site GitHub e entre no repositório chamado projeto4.
 
-2-Abre a pasta onde está o arquivo do jogo; 
+2-Role a página para baixo até encontrar a seção com o título "🛠 Instalação".
 
-3-Clique no botão direito no arquivo do jogo e seleciona em "extrair arquivos";
+3-Siga as instruções dessa seção para encontrar e baixar o arquivo do jogo.
 
-4-Clique em ok (vai aparecer em formato de pasta);
+4-Após o download, vá até a pasta onde o arquivo foi salvo.
 
-5-Abre o Unity;
+5-Clique com o botão direito no arquivo ZIP baixado e selecione a opção "Extrair arquivos...".
 
-6-Clica em add e seleciona a pasta que foi extraido os arquivos duas vezes;
+6-Clique em "OK" para iniciar a extração. Isso criará uma pasta com os arquivos do projeto.
 
-7-E por ultimo clica ok e abra o jogo (verifica se a versão está 6000.0.38f).
+7-Abra o Unity Hub.
+
+8-No Unity Hub, clique em "Add" (ou “Adicionar”) e selecione a pasta que você acabou de extrair (clique duas vezes nela para abrir).
+
+9-Clique em "Select Folder" (ou “Selecionar pasta”).
+
+10- Verifique se a versão do Unity usada pelo projeto é a 6000.0.38f (se necessário, instale essa versão pelo Unity Hub para evitar erros).
+
+11-Clique em "Open" para abrir o projeto no Unity.
 
 ## 📋 Licença/License
 
