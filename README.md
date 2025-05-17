@@ -6,7 +6,7 @@
 
 # Power Savers
 
-## Integrantes: Arthur Lima, Breno Sales Colaneri e Stephanie Macedo
+## Integrantes: Arthur Lima, Breno Sales Colaneri e <a href= "www.linkedin.com/in/stephanie-silva-1b6100340">Stephanie Macedo</a>
 
 ## Professores Orientadores: <a href= "https://www.linkedin.com/in/gillespleite/">Gilles Leite</a> e Victor Rosetti
 
