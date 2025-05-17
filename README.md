@@ -8,7 +8,7 @@
 
 ## Integrantes: <a href= "https://www.linkedin.com/in/arthur-lima-a19303348/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Arthur Lima</a>, <a href= "https://www.linkedin.com/in/breno-sales-colaneri-231b59322/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Breno Sales Colaneri</a> e <a href= "https://www.linkedin.com/in/stephanie-silva-1b6100340/">Stephanie Macedo</a>
 
-## Professores Orientadores: <a href= "https://www.linkedin.com/in/gillespleite/">Gilles Leite</a> e Victor Rosetti
+## Professores Orientadores: <a href= "https://www.linkedin.com/in/gillespleite/">Gilles Leite</a>, <a href= "https://www.linkedin.com/in/victorbarq/">Victor Rosetti</a>, <a href= "https://www.linkedin.com/in/lucymari/">Lucy Mari</a>, <a href= "https://www.linkedin.com/in/remuniz/">Renata Muniz</a> e <a href= "https://www.linkedin.com/in/francisco-escobar/?originalSubdomain=br">Francisco de Souza</a>.
 
 ## Descrição
 
