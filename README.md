@@ -39,13 +39,13 @@ Nosso projeto tem como objetivo principal conscientizar sobre a importância da 
 
 <b>Unity:</b>
 
-Fazer o download do Unity, no site https://unity.com/download, na versão 6000.0.38f1.
+Fazer o download do jogo Unity aqui 
 
 ## 💻 Configuração para Desenvolvimento
 
 1-Baixe o arquivo do jogo;
 
-2-Abre a pasta onde está o arquivo do jogo;
+2-Abre a pasta onde está o arquivo do jogo; 
 
 3-Clique no botão direito no arquivo do jogo e seleciona em "extrair arquivos";
 
