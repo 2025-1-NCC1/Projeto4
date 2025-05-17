@@ -8,7 +8,7 @@
 
 ## Integrantes: Arthur Lima, Breno Sales Colaneri e Stephanie Macedo
 
-## Professores Orientadores: <p href= "https://www.linkedin.com/in/gillespleite/">Gilles Leite</p> e Victor Rosetti
+## Professores Orientadores: <a href= "https://www.linkedin.com/in/gillespleite/">Gilles Leite</a> e Victor Rosetti
 
 ## Descrição
 
