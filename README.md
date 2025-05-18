@@ -67,7 +67,7 @@ Fazer o download do jogo Unity aqui
 
 ## 📋 Licença/License
 
-<a href="https://github.com/2025-1-NCC1/Projeto4">Power Savers</a> © 2025 by <a href="https://creativecommons.org">Stephanie Macedo, Arthur Lima e Breno Sales </a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<a href="https://github.com/2025-1-NCC1/Projeto4">Power Savers</a> © 2025 by <a href="https://github.com/Tetefanii">Stephanie Macedo</a>, <a href="https://github.com/Arth-070">Arthur Lima</a> e <a href="https://github.com/BrenoColaneri">Breno Sales </a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## 🎓 Referências
 
