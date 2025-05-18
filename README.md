@@ -67,7 +67,7 @@ Fazer o download do jogo Unity aqui
 
 ## 📋 Licença/License
 
-[Utilize o link https://unity.com/pt/products para adquirir uma licença do Unity, que oferece 2 tipos de licenças gratuitas, são elas: Unity Personal e Unity Student.](https://creativecommons.org/licenses/by/4.0/)
+<a href="https://github.com/2025-1-NCC1/Projeto4">Power Savers</a> © 2025 by <a href="https://creativecommons.org">Stephanie Macedo, Arthur Lima e Breno Sales </a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## 🎓 Referências
 
