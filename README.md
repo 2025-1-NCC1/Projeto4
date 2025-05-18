@@ -67,7 +67,7 @@ Fazer o download do jogo Unity aqui
 
 ## 📋 Licença/License
 
-Utilize o link https://unity.com/pt/products para adquirir uma licença do Unity, que oferece 2 tipos de licenças gratuitas, são elas: Unity Personal e Unity Student.
+[Utilize o link https://unity.com/pt/products para adquirir uma licença do Unity, que oferece 2 tipos de licenças gratuitas, são elas: Unity Personal e Unity Student.](https://creativecommons.org/licenses/by/4.0/)
 
 ## 🎓 Referências
 
