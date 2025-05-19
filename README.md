@@ -37,9 +37,9 @@ Nosso projeto tem como objetivo principal conscientizar sobre a importância da 
 
 ## 🛠 Instalação
 
-<b>Unity:</b>
+Windows:
 
-Fazer o download do jogo Unity aqui 
+Não há instalação! Encontre a executável do jogo em https://brenocolaneri.itch.io/power-savers, faça o dowload da pasta e execute o jogo
 
 ## 💻 Configuração para Desenvolvimento
 
