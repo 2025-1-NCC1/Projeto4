@@ -29,6 +29,11 @@ Nosso projeto tem como objetivo principal conscientizar sobre a importância da 
   &emsp; &emsp;|-->Jogos Digitais e Sistemas Digitais Interativos<br>
   &emsp; &emsp;|-->Projeto Interdisciplinar - Jogos Digitais<br>
   &emsp;|-->Entrega 2<br>
+  &emsp; &emsp;|-->Algoritmos e Lógica de Programação<br>
+  &emsp; &emsp;|-->Cálculo I<br>
+  &emsp; &emsp;|-->Ética e Pensamento Computacional<br>
+  &emsp; &emsp;|-->Jogos Digitais e Sistemas Digitais Interativos<br>
+  &emsp; &emsp;|-->Projeto Interdisciplinar - Jogos Digitais<br>
 |-->imagens<br>
 |-->src<br>
   &emsp;|-->Entrega 1<br>
@@ -37,9 +42,9 @@ Nosso projeto tem como objetivo principal conscientizar sobre a importância da 
 
 ## 🛠 Instalação
 
-<b>Unity:</b>
+Windows:
 
-Fazer o download do jogo Unity aqui 
+Não há instalação! Encontre a executável do jogo em https://brenocolaneri.itch.io/power-savers, faça o dowload da pasta e execute o jogo
 
 ## 💻 Configuração para Desenvolvimento
 
