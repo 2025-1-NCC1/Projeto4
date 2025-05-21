@@ -48,27 +48,19 @@ Não há instalação! Encontre a executável do jogo em https://brenocolaneri.i
 
 ## 💻 Configuração para Desenvolvimento
 
-1- Acesse o site GitHub e entre no repositório chamado projeto4.
+1-Acesse o site GitHub e entre no repositório chamado “projeto4”.
 
-2-Role a página para baixo até encontrar a seção com o título "🛠 Instalação".
+2-Role a página para baixo até encontrar a seção “🛠 Instalação”.
 
-3-Siga as instruções dessa seção para encontrar e baixar o arquivo do jogo.
+3-Clique no link de download disponível nesta seção e baixe o arquivo compactado.
 
-4-Após o download, vá até a pasta onde o arquivo foi salvo.
+4-Após o download, vá até a pasta onde o arquivo foi salvo em seu computador.
 
-5-Clique com o botão direito no arquivo ZIP baixado e selecione a opção "Extrair arquivos...".
+5-Clique no arquivo compactado. Quando aparecer a opção “Abrir com...”, selecione WinRAR.
 
-6-Clique em "OK" para iniciar a extração. Isso criará uma pasta com os arquivos do projeto.
+6-Clique em “Apenas uma vez” (ou “Sempre”, se desejar) e abra a pasta chamada “Projeto 4 exe new 2”.
 
-7-Abra o Unity Hub.
-
-8-No Unity Hub, clique em "Add" (ou “Adicionar”) e selecione a pasta que você acabou de extrair (clique duas vezes nela para abrir).
-
-9-Clique em "Select Folder" (ou “Selecionar pasta”).
-
-10- Verifique se a versão do Unity usada pelo projeto é a 6000.0.38f (se necessário, instale essa versão pelo Unity Hub para evitar erros).
-
-11-Clique em "Open" para abrir o projeto no Unity.
+7-Por fim, execute o arquivo “CenarioProject.exe” (verifique se você tem o Unity instalado no seu computador, pois ele pode ser necessário para rodar o projeto corretamente).
 
 ## 📋 Licença/License
 
